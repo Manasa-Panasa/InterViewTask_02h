@@ -1,0 +1,6 @@
+framework module Pods_InterviewTask_Manasa {
+  umbrella header "Pods-InterviewTask_Manasa-umbrella.h"
+
+  export *
+  module * { export * }
+}
